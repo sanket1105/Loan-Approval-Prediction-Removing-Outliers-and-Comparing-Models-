@@ -1,1 +1,0 @@
-# Loan-Approval-Prediction-Removing-Outliers-and-Comparing-Models-
